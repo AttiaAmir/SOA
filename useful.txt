@@ -1,0 +1,6 @@
+ports:
+	config 8080
+	eureka 8081 
+	admin 8083
+	user 8084
+	book 8085
